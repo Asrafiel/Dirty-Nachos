@@ -1,0 +1,7 @@
+
+*.lck
+*.gbr
+/DirtyNachos-backups
+.DS_Store
+*_autosave*
+fp-info-cache
