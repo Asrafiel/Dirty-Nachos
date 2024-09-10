@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 7.0,
-          "height": 4.2,
-          "width": 8.0
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DirtyNachos-PLATE.kicad_pro",
+    "filename": "DirtyNachos-BackPCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -457,7 +457,10 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND": "rgb(30, 244, 255)",
+      "VCC": "rgb(255, 0, 24)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
@@ -466,7 +469,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../Applications/KiCad/",
-      "plot": "Gerber/PLATE/",
+      "plot": "Gerber/Back",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
