@@ -226,7 +226,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 90)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "16e36ae1-9fc6-4e48-84f2-bc7567a2296d")
 		)
 	)
 	(footprint ""
@@ -298,7 +298,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 90)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "81e47b8e-1c2b-4fdf-9795-ef758ea9904a")
 		)
 	)
 	(footprint ""
@@ -370,7 +370,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 90)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "b9566df4-2b7b-4a18-9d5b-844b3903f155")
 		)
 	)
 	(footprint ""
@@ -437,12 +437,12 @@
 		)
 		(pad "" thru_hole circle
 			(at 0 0)
-			(size 7.6 6.6)
+			(size 7.6 7.6)
 			(drill oval 7.1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 90)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "7ce298e5-2ecf-4a9e-962e-9cd2c86f6830")
 		)
 	)
 	(footprint "SVG PCB:DirtNacho"
@@ -5138,7 +5138,7 @@
 			(drill oval 7 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "2665c3a5-d938-48fe-b76b-ee42a7242a9c")
 		)
 	)
 	(footprint ""
@@ -5210,7 +5210,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(thermal_bridge_angle 90)
-			(uuid "8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc")
+			(uuid "a2d99737-0cb9-4b1f-921e-e6a4dc8b87a1")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"

@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "d3849c46-c680-4f33-80bf-3ad3afc80606")
 	(paper "A4")
+	(title_block
+		(title "Schematics")
+		(date "2024-09-10")
+		(rev "0.2")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL072"
 			(pin_names
@@ -3371,7 +3376,7 @@
 	)
 	(text "BIAS"
 		(exclude_from_sim no)
-		(at 102.616 68.072 0)
+		(at 102.87 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3381,7 +3386,7 @@
 	)
 	(text "CUTOFF"
 		(exclude_from_sim no)
-		(at 105.41 28.194 0)
+		(at 105.41 27.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
