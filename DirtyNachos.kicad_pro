@@ -466,12 +466,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "DirtyNachos.cad",
       "idf": "",
       "netlist": "../../../../../Applications/KiCad/",
       "plot": "Gerber/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "DirtyNachosRouting.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
